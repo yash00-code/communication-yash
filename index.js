@@ -41,6 +41,24 @@ console.log(10%10);
    console.log(20!=30);
 
 /* logical operator*/
+ console.log(false&&true);
+ console.log(true&&true);
+ console.log(ture&&false);
+ console.log(false||true);
+ console.log(x || y );
+ console.log(x|| x);
+
+ console.log("yash Beberwal");
+ console.log(x|| x);
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
 
    
      
