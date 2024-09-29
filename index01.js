@@ -1,6 +1,3 @@
-
-
-
 name="yash";
 let salary =1000;
 let age=28;
@@ -50,29 +47,3 @@ console.log(10%10);
 
  console.log("yash Beberwal");
  console.log(x|| x);
-
-
- 
- 
- 
- 
- 
- 
-
-
-   
-     
-  
-  
-   
- 
-
-
-
-
-
-
-
-
-
-
