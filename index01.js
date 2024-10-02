@@ -45,5 +45,7 @@ console.log(10%10);
  console.log(x || y );
  console.log(x|| x);
 
- console.log("yash Beberwal");
- console.log(x|| x);
+ console.log("yash");
+console.log();
+   
+
