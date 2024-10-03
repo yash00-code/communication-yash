@@ -25,3 +25,15 @@ if (i>15) {
     console.log("my age is 13");
     
 }
+
+
+
+
+ 
+if (time < 10) {
+  console.log = "Good morning";
+} else if (time < 20) {
+  console.log = "Good day";
+} else {
+  console.log = "Good evening";
+}
