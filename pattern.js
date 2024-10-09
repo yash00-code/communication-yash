@@ -2,12 +2,12 @@
 //process.stdout.write("yash")
 
 for(let row=1;row<=5;row=row+1){
-    //stars ki chapai
-    for(let star=1;star<=row;star=star+1){
-        process.stdout.write("*")
-    }
-    console.log();
-    
+  //stars ki chapai
+  for(let star=1;star<=row;star=star+1){
+      process.stdout.write("*")
+  }
+  console.log();
+  
 }
 
 for(let row=1;row<=5;row=row+1){
@@ -103,6 +103,19 @@ console.log();
 nsp=nsp-1;
 nst=nst+2;
 
+}
+for(let row=1;row<=5;row++){
+  //colom
+  for(let col=1;col<=5;col++){
+      if (row==col) {
+          process.stdout.write("*")
+      } else {
+          process.stdout.write(" ")  
+      }
+  
+  }
+  console.log();
+  
 }
 
 
