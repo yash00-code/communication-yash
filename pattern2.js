@@ -146,6 +146,34 @@ for(let row=1;row<=5;row++){
     console.log();
     
 }*/
+/*let nsp=2;
+let nst=1;
+
+for(let row=1;row<=5;row++){
+   let ans="";
+   let val=5;
+   
+   for(let sp=1;sp<=nsp;sp++){
+       ans=ans+" ";
+   }
+ 
+   for(let st=1;st<=nst;st++){
+   ans=ans+val+ " ";
+   }
+   console.log(ans);
+
+ if (row<3) {
+   nsp=nsp-1;
+   nst=nst+2;
+   
+ }else{
+   nsp=nsp+1;
+   nst=nst-2;
+ }
+ val++;
+   
+}*/
+
 
 
   
